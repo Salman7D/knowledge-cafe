@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "cover": "https://example.com/cover1.jpg",
+      "title": "The Secret Garden",
+      "author_img": "https://example.com/author1.jpg",
+      "author": "Jane Doe",
+      "posted_date": "2024-03-12",
+      "reading_time": "15 mins",
+      "hashtag": ["fiction", "inspiration", "nature"]
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/cover2.jpg",
+      "title": "The Lost World",
+      "author_img": "https://example.com/author2.jpg",
+      "author": "John Smith",
+      "posted_date": "2024-03-11",
+      "reading_time": "20 mins",
+      "hashtag": ["adventure", "dinosaurs", "exploration"]
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/cover3.jpg",
+      "title": "Beyond the Stars",
+      "author_img": "https://example.com/author3.jpg",
+      "author": "Alice Johnson",
+      "posted_date": "2024-03-10",
+      "reading_time": "25 mins",
+      "hashtag": ["sci-fi", "space", "exploration"]
+    }
+  ]
+  
