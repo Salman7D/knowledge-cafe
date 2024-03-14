@@ -1,9 +1,9 @@
 [
     {
       "id": 1,
-      "cover": "https://example.com/cover1.jpg",
+      "cover": "https://res.cloudinary.com/doulo6qvd/image/upload/v1710397928/ltkrgguw6z8yxfttn2b1.jpg",
       "title": "The Secret Garden",
-      "author_img": "https://example.com/author1.jpg",
+      "author_img": "https://res.cloudinary.com/doulo6qvd/image/upload/v1710411177/w2sikmsbkgsorxfvu2um.jpg",
       "author": "Jane Doe",
       "posted_date": "2024-03-12",
       "reading_time": "15 mins",
@@ -11,9 +11,9 @@
     },
     {
       "id": 2,
-      "cover": "https://example.com/cover2.jpg",
+      "cover": "https://res.cloudinary.com/doulo6qvd/image/upload/v1710411073/cuchvwbxfmar2pdw1iy5.png",
       "title": "The Lost World",
-      "author_img": "https://example.com/author2.jpg",
+      "author_img": "https://res.cloudinary.com/doulo6qvd/image/upload/v1710411212/beixx9den4drwfvqgv6a.jpg",
       "author": "John Smith",
       "posted_date": "2024-03-11",
       "reading_time": "20 mins",
@@ -21,9 +21,9 @@
     },
     {
       "id": 3,
-      "cover": "https://example.com/cover3.jpg",
+      "cover": "https://res.cloudinary.com/doulo6qvd/image/upload/v1710411122/pujtets7pemd0pvmirwp.png",
       "title": "Beyond the Stars",
-      "author_img": "https://example.com/author3.jpg",
+      "author_img": "https://res.cloudinary.com/doulo6qvd/image/upload/v1710411235/mgp0emqjekw1znpeowcn.jpg",
       "author": "Alice Johnson",
       "posted_date": "2024-03-10",
       "reading_time": "25 mins",
