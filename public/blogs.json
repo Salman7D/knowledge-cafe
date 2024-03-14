@@ -6,7 +6,7 @@
       "author_img": "https://res.cloudinary.com/doulo6qvd/image/upload/v1710411177/w2sikmsbkgsorxfvu2um.jpg",
       "author": "Jane Doe",
       "posted_date": "2024-03-12",
-      "reading_time": "15 mins",
+      "reading_time": 15,
       "hashtag": ["fiction", "inspiration", "nature"]
     },
     {
@@ -16,7 +16,7 @@
       "author_img": "https://res.cloudinary.com/doulo6qvd/image/upload/v1710411212/beixx9den4drwfvqgv6a.jpg",
       "author": "John Smith",
       "posted_date": "2024-03-11",
-      "reading_time": "20 mins",
+      "reading_time": 20,
       "hashtag": ["adventure", "dinosaurs", "exploration"]
     },
     {
@@ -26,7 +26,7 @@
       "author_img": "https://res.cloudinary.com/doulo6qvd/image/upload/v1710411235/mgp0emqjekw1znpeowcn.jpg",
       "author": "Alice Johnson",
       "posted_date": "2024-03-10",
-      "reading_time": "25 mins",
+      "reading_time": 25,
       "hashtag": ["sci_fi", "space", "exploration"]
     }
   ]
